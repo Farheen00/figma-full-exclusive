@@ -34,7 +34,7 @@ export default function About() {
           {/* Right Side */}
           <div className='flex-1'>
             <Image 
-              src="/images/about1.png" 
+              src="/about1.png" 
               alt="Hero-section-image" 
               width={500} 
               height={500} 
